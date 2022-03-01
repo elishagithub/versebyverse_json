@@ -55,12 +55,23 @@
               "endTime": "44:42"
             },
             {
-              "verseName": "1-6",
+              "verseName": "12-13",
               "mainAudio": "abc",
-              "startTime": "0",
-              "endTime": "2:57"
-            }
-            
+              "startTime": "0:00",
+              "endTime": "02:56"
+            },
+            {
+              "verseName": "13-15",
+              "mainAudio": "abc",
+              "startTime": "02:56",
+              "endTime": "08:43"
+            },
+            {
+              "verseName": "16:18",
+              "mainAudio": "abc",
+              "startTime": "08:43",
+              "endTime": "09:55"
+            },
           ]
         }
       ]
