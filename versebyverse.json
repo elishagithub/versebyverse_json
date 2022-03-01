@@ -4,43 +4,55 @@
       "bookName": "Mathew",
       "chapters": [
         {
-          "chaperName": "1",
+          "chapterName": "1",
           "verses":  [
             {
-              "verseName": "1-6",
+              "verseName": "1-17",
               "mainAudio": "abc",
-              "startTime": "0",
-              "endTime": "2:57"
+              "startTime": "0.00",
+              "endTime": "16:21"
             },
             {
-              "verseName": "1-6",
+              "verseName": "17-18",
               "mainAudio": "abc",
-              "startTime": "0",
-              "endTime": "2:57"
+              "startTime": "16:21",
+              "endTime": "22:40"
             },
             {
-              "verseName": "1-6",
+              "verseName": "19-20",
               "mainAudio": "abc",
-              "startTime": "0",
-              "endTime": "2:57"
-            }
+              "startTime": "22:40",
+              "endTime": "27:14"
+            },
+             {
+              "verseName": "21",
+              "mainAudio": "abc",
+              "startTime": "27:14",
+              "endTime": "30:04"
+            },
+             {
+              "verseName": "24-25",
+              "mainAudio": "abc",
+              "startTime": "30:04",
+              "endTime": "31:54"
+            },
             
           ]
         },
          {
-          "chaperName": "1",
+          "chaperName": "2",
           "verses":  [
             {
-              "verseName": "1-6",
+              "verseName": "1-5",
               "mainAudio": "abc",
-              "startTime": "0",
-              "endTime": "2:57"
+              "startTime": "30:54",
+              "endTime": "41:14"
             },
             {
-              "verseName": "1-6",
+              "verseName": "6-11",
               "mainAudio": "abc",
-              "startTime": "0",
-              "endTime": "2:57"
+              "startTime": "41:14",
+              "endTime": "44:42"
             },
             {
               "verseName": "1-6",
