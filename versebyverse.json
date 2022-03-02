@@ -24,13 +24,13 @@
               "startTime": "22:40",
               "endTime": "27:14"
             },
-             {
+            {
               "verseNumber": "21",
               "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-1-1-to-chapter-2-11.mp3",
               "startTime": "27:14",
               "endTime": "30:04"
             },
-             {
+            {
               "verseNumber": "24-25",
               "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-1-1-to-chapter-2-11.mp3",
               "startTime": "30:04",
@@ -38,8 +38,8 @@
             }
           ]
         },
-         {
-          "chaperNumber": "2",
+        {
+          "chapterNumber": "2",
           "verses":  [
             {
               "verseNumber": "1-5",
@@ -83,11 +83,11 @@
               "startTime": "11:19",
               "endTime": "15:11"
             }
-            
-            
+
+
           ]
         },
-            {
+        {
           "chapterNumber": "3",
           "verses":  [
             {
@@ -108,73 +108,73 @@
               "startTime": "22:34",
               "endTime": "25:49"
             },
-             {
+            {
               "verseNumber": "10",
               "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-2-12-to-chapter-3-17.mp3",
               "startTime": "25:50",
               "endTime": "29:04"
             },
-             {
+            {
               "verseNumber": "11",
               "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-2-12-to-chapter-3-17.mp3",
               "startTime": "29:04",
               "endTime": "32:00"
             },
-             {
+            {
               "verseNumber": "12",
               "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-2-12-to-chapter-3-17.mp3",
               "startTime": "32:01",
               "endTime": "33:44"
             },
-             {
+            {
               "verseNumber": "13-17",
               "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-2-12-to-chapter-3-17.mp3",
               "startTime": "33:45",
               "endTime": "44:47"
             }
-           
+
           ]
         },
-            {
-          "chaperName": "4",
+        {
+          "chapterNumber": "4",
           "verses":  [
             {
-              "verseName": "1-2",
+              "verseNumber": "1-2",
               "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-4-1-to-chapter-4-25.mp3",
               "startTime": "0.0",
               "endTime": "2:32"
             },
             {
-              "verseName": "3-5",
+              "verseNumber": "3-5",
               "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-4-1-to-chapter-4-25.mp3",
               "startTime": "2:32",
               "endTime": "11:19"
             },
             {
-              "verseName": "6",
+              "verseNumber": "6",
               "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-4-1-to-chapter-4-25.mp3",
               "startTime": "11:20",
               "endTime": "22:25"
             },
-             {
+            {
               "verseNumber": "8-11",
               "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-4-1-to-chapter-4-25.mp3",
               "startTime": "22:26",
               "endTime": "33:15"
             },
-             {
+            {
               "verseNumber": "12-17",
               "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-4-1-to-chapter-4-25.mp3",
               "startTime": "33:16",
               "endTime": "38:58"
             },
-             {
+            {
               "verseNumber": "18-25",
               "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-4-1-to-chapter-4-25.mp3",
               "startTime": "38:58",
               "endTime": "44:26"
             }
-           
+
           ]
         }
       ]
