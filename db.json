@@ -178,6 +178,182 @@
           ]
         }
       ]
+    },
+      {
+      "BookNumber": "Jude",
+      "Chapters": [
+        {
+          "chapterNumber": "1",
+          "verses":  [
+            {
+              "verseNumber": "1-4",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt26-jude-chapter-1-1-to-chapter-1-25.mp3",
+              "startTime": "0:0",
+              "endTime": "11:02"
+            },
+            {
+              "verseNumber": "5",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt26-jude-chapter-1-1-to-chapter-1-25.mp3",
+              "startTime": "11:02",
+              "endTime": "18:15"
+            },
+            {
+              "verseNumber": "7",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt26-jude-chapter-1-1-to-chapter-1-25.mp3",
+              "startTime": "18:15",
+              "endTime": "22:01"
+            },
+            {
+              "verseNumber": "8",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt26-jude-chapter-1-1-to-chapter-1-25.mp3",
+              "startTime": "22:01",
+              "endTime": "31:10"
+            },
+            {
+              "verseNumber": "10",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt26-jude-chapter-1-1-to-chapter-1-25.mp3",
+              "startTime": "31:10",
+              "endTime": "33:07"
+            },
+            {
+              "verseNumber": "11",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt26-jude-chapter-1-1-to-chapter-1-25.mp3",
+              "startTime": "33:07",
+              "endTime": "44:14"
+            },
+            {
+              "verseNumber": "14",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt26-jude-chapter-1-1-to-chapter-1-25.mp3",
+              "startTime": "44:14",
+              "endTime": "51:50"
+            },
+            {
+              "verseNumber": "17",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt26-jude-chapter-1-1-to-chapter-1-25.mp3",
+              "startTime": "51:50",
+              "endTime": "53:31"
+            },
+            {
+              "verseNumber": "22",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt26-jude-chapter-1-1-to-chapter-1-25.mp3",
+              "startTime": "53:31",
+              "endTime": "54:21"
+            },
+            {
+              "verseNumber": "24",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt26-jude-chapter-1-1-to-chapter-1-25.mp3",
+              "startTime": "54:21",
+              "endTime": "55:18"
+            }
+          ]
+        }
+      ]
+    },
+       {
+      "BookNumber": "Titus 1",
+      "Chapters": [
+        {
+          "chapterNumber": "1",
+          "verses":  [
+            {
+              "verseNumber": "1-4",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt17-titus-chapter-1-1-to-chapter-2-3.mp3",
+              "startTime": "0:0",
+              "endTime": "06:04"
+            },
+            {
+              "verseNumber": "2",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt17-titus-chapter-1-1-to-chapter-2-3.mp3",
+              "startTime": "06:04",
+              "endTime": "08:32"
+            },
+            {
+              "verseNumber": "3",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt17-titus-chapter-1-1-to-chapter-2-3.mp3",
+              "startTime": "08:32",
+              "endTime": "09:58"
+            },
+            {
+              "verseNumber": "4",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt17-titus-chapter-1-1-to-chapter-2-3.mp3",
+              "startTime": "09:58",
+              "endTime": "10:45"
+            },
+            {
+              "verseNumber": "5",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt17-titus-chapter-1-1-to-chapter-2-3.mp3",
+              "startTime": "10:45",
+              "endTime": "21:28"
+            },
+            {
+              "verseNumber": "6",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt17-titus-chapter-1-1-to-chapter-2-3.mp3",
+              "startTime": "21:28",
+              "endTime": "31:00"
+            },
+            {
+              "verseNumber": "7",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt17-titus-chapter-1-1-to-chapter-2-3.mp3",
+              "startTime": "31:00",
+              "endTime": "32:11"
+            },
+            {
+              "verseNumber": "8",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt17-titus-chapter-1-1-to-chapter-2-3.mp3",
+              "startTime": "32:11",
+              "endTime": "42:01"
+            },
+            {
+              "verseNumber": "9",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt17-titus-chapter-1-1-to-chapter-2-3.mp3",
+              "startTime": "42:01",
+              "endTime": "42:56"
+            },
+            {
+              "verseNumber": "10",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt17-titus-chapter-1-1-to-chapter-2-3.mp3",
+              "startTime": "42:56",
+              "endTime": "46:50"
+            },
+            {
+              "verseNumber": "11",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt17-titus-chapter-1-1-to-chapter-2-3.mp3",
+              "startTime": "46:50",
+              "endTime": "51:30"
+            },
+            {
+              "verseNumber": "12",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt17-titus-chapter-1-1-to-chapter-2-3.mp3",
+              "startTime": "51:30",
+              "endTime": "52:30"
+            },
+            {
+              "verseNumber": "13",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt17-titus-chapter-1-1-to-chapter-2-3.mp3",
+              "startTime": "52:30",
+              "endTime": "52:56"
+            },
+            {
+              "verseNumber": "14",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt17-titus-chapter-1-1-to-chapter-2-3.mp3",
+              "startTime": "52:56",
+              "endTime": "53:33"
+            },
+            {
+              "verseNumber": "15",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt17-titus-chapter-1-1-to-chapter-2-3.mp3",
+              "startTime": "53:33",
+              "endTime": "54:50"
+            },
+            {
+              "verseNumber": "16",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt17-titus-chapter-1-1-to-chapter-2-3.mp3",
+              "startTime": "54:50",
+              "endTime": "1:04:15"
+            }
+          ]
+        }
+      ]
     }
 
   ]
