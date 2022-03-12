@@ -176,6 +176,186 @@
             }
 
           ]
+        },
+          {
+          "chapterNumber": "5",
+          "verses":  [
+            {
+              "verseNumber": "1-3",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-5-1-to-chapter-5-6.mp3",
+              "startTime": "0:0",
+              "endTime": "11:20"
+            },
+            {
+              "verseNumber": "4",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-5-1-to-chapter-5-6.mp3",
+              "startTime": "11:21",
+              "endTime": "22:37"
+            },
+            {
+              "verseNumber": "5",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-5-1-to-chapter-5-6.mp3",
+              "startTime": "22:38",
+              "endTime": "33:51"
+            },
+            {
+              "verseNumber": "6",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-5-1-to-chapter-5-6.mp3",
+              "startTime": "33:51",
+              "endTime": "45:11"
+            },
+            {
+              "verseNumber": "7",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-5-7-to-chapter-5-12.mp3",
+              "startTime": "0:0",
+              "endTime": "11:18"
+            },
+            {
+              "verseNumber": "8",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-5-7-to-chapter-5-12.mp3",
+              "startTime": "11:19",
+              "endTime": "22:34"
+            },
+            {
+              "verseNumber": "9",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-5-7-to-chapter-5-12.mp3",
+              "startTime": "22:35",
+              "endTime": "33:50"
+            },
+             {
+              "verseNumber": "10-12",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-5-7-to-chapter-5-12.mp3",
+              "startTime": "33:51",
+              "endTime": "45:11"
+            },
+             {
+              "verseNumber": "13",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-5-13-to-chapter-5-26.mp3",
+              "startTime": "0:0",
+              "endTime": "8:14"
+            },
+             {
+              "verseNumber": "14-16",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-5-13-to-chapter-5-26.mp3",
+              "startTime": "8:15",
+              "endTime": "11:14"
+            },
+             {
+              "verseNumber": "17-18",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-5-13-to-chapter-5-26.mp3",
+              "startTime": "11:15",
+              "endTime": "18:34"
+            },
+             {
+              "verseNumber": "19",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-5-13-to-chapter-5-26.mp3",
+              "startTime": "18:35",
+              "endTime": "22:36"
+            },
+             {
+              "verseNumber": "20",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-5-13-to-chapter-5-26.mp3",
+              "startTime": "22:37",
+              "endTime": "31:18"
+            },
+             {
+              "verseNumber": "21-26",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-5-13-to-chapter-5-26.mp3",
+              "startTime": "31:19",
+              "endTime": "45:07"
+            },
+            {
+              "verseNumber": "27-30",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-5-27-to-chapter-5-48.mp3",
+              "startTime": "0:0",
+              "endTime": "8:35"
+            },
+             {
+              "verseNumber": "31-32",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-5-27-to-chapter-5-48.mp3",
+              "startTime": "8:36",
+              "endTime": "11:16"
+            },
+             {
+              "verseNumber": "33-37",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-5-27-to-chapter-5-48.mp3",
+              "startTime": "11:17",
+              "endTime": "22:30"
+            },
+             {
+              "verseNumber": "38-42",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-5-27-to-chapter-5-48.mp3",
+              "startTime": "22:31",
+              "endTime": "34:42"
+            },
+             {
+              "verseNumber": "43-48",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-5-27-to-chapter-5-48.mp3",
+              "startTime": "34:43",
+              "endTime": "45:10"
+            }
+
+          ]
+        },
+         {
+          "chapterNumber": "6",
+          "verses":  [
+            {
+              "verseNumber": "1-4",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-6-1-to-chapter-6-10.mp3",
+              "startTime": "0.0",
+              "endTime": "22:25"
+            },
+            {
+              "verseNumber": "5-6",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-6-1-to-chapter-6-10.mp3",
+              "startTime": "22:26",
+              "endTime": "33:42"
+            },
+            {
+              "verseNumber": "7-8",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-6-1-to-chapter-6-10.mp3",
+              "startTime": "33:43",
+              "endTime": "45:01"
+            },
+            {
+              "verseNumber": "9-15",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-6-9-to-chapter-6-24.mp3",
+              "startTime": "0:0",
+              "endTime": "22:31"
+            },
+            {
+              "verseNumber": "16-18",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-6-9-to-chapter-6-24.mp3",
+              "startTime": "22:32",
+              "endTime": "30:51"
+            },
+            {
+              "verseNumber": "19-21",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-6-9-to-chapter-6-24.mp3",
+              "startTime": "30:52",
+              "endTime": "36:35"
+            },
+             {
+              "verseNumber": "22-24",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-6-9-to-chapter-6-24.mp3",
+              "startTime": "36:36",
+              "endTime": "44:57"
+            },
+             {
+              "verseNumber": "25",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-6-25-to-chapter-7-12.mp3",
+              "startTime": "0:0",
+              "endTime": "9:05"
+            },
+             {
+              "verseNumber": "26",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-6-25-to-chapter-7-12.mp3",
+              "startTime": "9:06",
+              "endTime": "22:21"
+            }
+
+          ]
         }
       ]
     }
