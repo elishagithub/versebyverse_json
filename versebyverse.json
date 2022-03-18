@@ -675,7 +675,7 @@
               "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-12-31-to-chapter-12-50.mp3",
               "startTime": "33:54",
               "endTime": "45:08"
-            },
+            }
           ]
         },
       ]
@@ -689,11 +689,66 @@
               "endTime": "22:21"
             },
             {
-              "verseNumber": "1-17",
+              "verseNumber": "18-21",
               "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-13-1-to-chapter-13-30.mp3",
-              "startTime": "0:0",
-              "endTime": "22:21"
+              "startTime": "22:22",
+              "endTime": "27:54"
             },
+    {
+              "verseNumber": "22",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-13-1-to-chapter-13-30.mp3",
+              "startTime": "27:55",
+              "endTime": "33:28"
+            },
+    {
+              "verseNumber": "23",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-13-1-to-chapter-13-30.mp3",
+              "startTime": "33:29",
+              "endTime": "40:25"
+            },
+    {
+              "verseNumber": "24-30",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-13-1-to-chapter-13-30.mp3",
+              "startTime": "40:26",
+              "endTime": "44:37"
+            },
+    {
+              "verseNumber": "31-32",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-13-31-to-chapter-13-58.mp3",
+              "startTime": "0:0",
+              "endTime": "11:09"
+            },
+    {
+              "verseNumber": "33",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-13-31-to-chapter-13-58.mp3",
+              "startTime": "11:10",
+              "endTime": "18:21"
+            },
+    {
+              "verseNumber": "34-35",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-13-31-to-chapter-13-58.mp3",
+              "startTime": "18:22",
+              "endTime": "20:31"
+            },
+    {
+              "verseNumber": "36-43",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-13-31-to-chapter-13-58.mp3",
+              "startTime": "20:32",
+              "endTime": "22:24"
+            },
+    {
+              "verseNumber": "44-46",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-13-31-to-chapter-13-58.mp3",
+              "startTime": "22:25",
+              "endTime": "33:47"
+            },
+    {
+              "verseNumber": "47-58",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-13-31-to-chapter-13-58.mp3",
+              "startTime": "33:48",
+              "endTime": "45:08"
+            }
+    
           ]
         },
     }
