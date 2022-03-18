@@ -683,10 +683,16 @@
           "chapterNumber": "13",
           "verses":  [
             {
-              "verseNumber": "1-10",
-              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-11-1-to-chapter-11-27.mp3",
+              "verseNumber": "1-17",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-13-1-to-chapter-13-30.mp3",
               "startTime": "0:0",
-              "endTime": "11:05"
+              "endTime": "22:21"
+            },
+            {
+              "verseNumber": "1-17",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-13-1-to-chapter-13-30.mp3",
+              "startTime": "0:0",
+              "endTime": "22:21"
             },
           ]
         },
