@@ -1279,11 +1279,49 @@
               "startTime": "0:0",
               "endTime": "6:04"
             },
+              {
+              "verseNumber": "51-61",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-27-45-to-chapter-28-20.mp3",
+              "startTime": "6:05",
+              "endTime": "12:14"
+            },
+              {
+              "verseNumber": "62-66",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-27-45-to-chapter-28-20.mp3",
+              "startTime": "12:15",
+              "endTime": "17:40"
+            }
           ]
         },
-
-
-
+ {
+          "chapterNumber": "28",
+          "verses":  [
+            {
+              "verseNumber": "1-9",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-27-45-to-chapter-28-20.mp3",
+              "startTime": "17:45",
+              "endTime": "24:22"
+            },
+             {
+              "verseNumber": "10-15",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-27-45-to-chapter-28-20.mp3",
+              "startTime": "24:23",
+              "endTime": "32:29"
+            },
+             {
+              "verseNumber": "16-17",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-27-45-to-chapter-28-20.mp3",
+              "startTime": "32:30",
+              "endTime": "36:27"
+            },
+             {
+              "verseNumber": "18-20",
+              "mainAudio": "https://www.cfcindia.org/resources/en/study-series/verse-by-verse/nt01-matthew-chapter-27-45-to-chapter-28-20.mp3",
+              "startTime": "36:29",
+              "endTime": "48:39"
+            }
+          ]
+        },
     }
 
   ]
